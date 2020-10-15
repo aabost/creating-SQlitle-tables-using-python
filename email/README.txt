@@ -1,0 +1,1 @@
+Goal is to export a sqlite tables of txt file

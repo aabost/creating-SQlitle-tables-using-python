@@ -1,0 +1,1 @@
+Goal is to make your own Sqlite tables from a json using python3
