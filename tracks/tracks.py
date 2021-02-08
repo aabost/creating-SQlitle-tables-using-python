@@ -1,3 +1,8 @@
+'''
+# @author Abanob Bostouros
+# Aug 2018
+# py4e - coursera
+'''
 import xml.etree.ElementTree as ET
 import sqlite3
 

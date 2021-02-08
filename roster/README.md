@@ -1,0 +1,1 @@
+In this project I am creating roster of classes and members using Sqlite and extracting data from Json file

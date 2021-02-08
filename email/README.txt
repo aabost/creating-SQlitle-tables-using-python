@@ -1,1 +1,1 @@
-Goal is to export a sqlite tables of txt file
+Goal is to export a sqlite tables of emails' organization and their count from txt file.

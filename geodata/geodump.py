@@ -1,3 +1,9 @@
+'''
+# @author Abanob Bostouros
+# Aug 2018
+# py4e - coursera
+'''
+
 import sqlite3
 import json
 import codecs
@@ -36,4 +42,3 @@ cur.close()
 fhand.close()
 print(count, "records written to where.js")
 print("Open where.html to view the data in a browser")
-

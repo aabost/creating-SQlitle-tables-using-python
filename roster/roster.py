@@ -1,3 +1,9 @@
+'''
+# @author Abanob Bostouros
+# Aug 2018
+# py4e - coursera
+'''
+
 import json
 import sqlite3
 

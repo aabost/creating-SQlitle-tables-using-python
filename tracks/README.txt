@@ -1,1 +1,0 @@
-Goal is to export a sqlite tables of XML file

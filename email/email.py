@@ -1,3 +1,8 @@
+'''
+# @autour Abanob Bostouros
+# Aug 2018
+# py4e - Coursera
+'''
 import sqlite3
 
 conn = sqlite3.connect('emaildb.sqlite')
